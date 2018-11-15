@@ -1,0 +1,23 @@
+{
+  "name": "2-2-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kirill Konshin",
+  "license": "MIT",
+  "devDependencies": {
+    "@zeit/next-css": "0.1.2",
+    "express": "4.16.2",
+    "next": "5.1.0",
+    "next-images": "0.9.2"
+  },
+  "dependencies": {
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-vis": "1.8.3"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "6-4-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "next",
+    "test": "NODE_ENV=test jest"
+  },
+  "author": "Kirill Konshin",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "22.4.3",
+    "jest-puppeteer": "2.3.0",
+    "next": "5.1.0",
+    "puppeteer": "1.3.0"
+  },
+  "dependencies": {
+    "isomorphic-unfetch": "2.0.0",
+    "react": "16.2.0",
+    "react-dom": "16.2.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "3-5-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "next"
+  },
+  "author": "Kirill Konshin",
+  "license": "MIT",
+  "devDependencies": {
+    "next": "5.1.0"
+  },
+  "dependencies": {
+    "apollo-link-http": "1.5.3",
+    "graphql-tag": "2.8.0",
+    "next-apollo": "1.0.13",
+    "react": "16.2.0",
+    "react-apollo": "2.0.4",
+    "react-dom": "16.2.0"
+  }
+}
